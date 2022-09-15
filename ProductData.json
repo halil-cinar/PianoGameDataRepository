@@ -6,7 +6,7 @@
     "isTaken":false,
     "isUse":false,
     "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":"1"  
+    "typeId":1
   },
   {
     "title":"BackGround",
@@ -15,7 +15,7 @@
     "isTaken":false,
     "isUse":false,
     "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":"1"  
+    "typeId":1  
   }
   
   
