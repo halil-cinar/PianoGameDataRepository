@@ -1,61 +1,31 @@
 [
   {
-    "title":"BackGround",
+    "title":"BackGround1",
     "price":30,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
     "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":1
-  },
-  {
+    "typeId":1,
+    "id":1
+  },  {
     "title":"BackGround2",
     "price":30,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
     "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":1  
-  }
-  ,
-  {
+    "typeId":1,
+    "id":1
+  },  {
     "title":"BackGround3",
     "price":30,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
     "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":1  
-  }
-  ,
-  {
-    "title":"BackGround4",
-    "price":30,
-    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "isTaken":false,
-    "isUse":false,
-    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":1  
-  }
-  ,
-  {
-    "title":"BackGround5",
-    "price":30,
-    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "isTaken":false,
-    "isUse":false,
-    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":1  
-  }
-  ,
-  {
-    "title":"BackGround6",
-    "price":30,
-    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "isTaken":false,
-    "isUse":false,
-    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
-    "typeId":1  
+    "typeId":1,
+    "id":1
   }
   
   
