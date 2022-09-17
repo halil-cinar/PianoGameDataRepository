@@ -30,10 +30,10 @@
   ,  {
     "title":"BackGround4",
     "price":30,
-    "image":"https://images.pexels.com/photos/1915182/pexels-photo-1915182.jpeg",
+    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-nur-andi-ravsanjani-gusma-1915182.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
-    "data":"https://images.pexels.com/photos/1915182/pexels-photo-1915182.jpeg",
+    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-nur-andi-ravsanjani-gusma-1915182.jpg?raw=true",
     "typeId":1,
     "id":3
   }
