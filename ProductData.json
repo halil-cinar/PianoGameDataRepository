@@ -11,21 +11,31 @@
   },  {
     "title":"BackGround2",
     "price":30,
-    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
+    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-trace-hudson-2365701.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
-    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
+    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-trace-hudson-2365701.jpg?raw=true",
     "typeId":1,
     "id":1
   },  {
     "title":"BackGround3",
     "price":30,
-    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
+    "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-yura-forrat-11866539%20(1).jpg?raw=true",
     "isTaken":false,
     "isUse":false,
-    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
+    "data":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-yura-forrat-11866539%20(1).jpg?raw=true",
     "typeId":1,
     "id":2
+  }
+  ,  {
+    "title":"BackGround4",
+    "price":30,
+    "image":"https://images.pexels.com/photos/1915182/pexels-photo-1915182.jpeg",
+    "isTaken":false,
+    "isUse":false,
+    "data":"https://images.pexels.com/photos/1915182/pexels-photo-1915182.jpeg",
+    "typeId":1,
+    "id":3
   }
   
   
