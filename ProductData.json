@@ -1,7 +1,7 @@
 [
   {
     "title":"BackGround",
-    "price":30,
+    "price":0,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-max-avans-5065550%20(1).jpg?raw=true",
     "isTaken":true,
     "isUse":true,
