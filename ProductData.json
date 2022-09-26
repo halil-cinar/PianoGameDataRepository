@@ -10,7 +10,7 @@
     "id":-1
   },{
     "title":"BackGround1",
-    "price":30,
+    "price":100,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
