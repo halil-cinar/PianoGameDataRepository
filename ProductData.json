@@ -10,7 +10,7 @@
     "id":-1
   },{
     "title":"BackGround1",
-    "price":100,
+    "price":110,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-andrew-neel-3178798.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
@@ -19,7 +19,7 @@
     "id":0
   },  {
     "title":"BackGround2",
-    "price":30,
+    "price":40,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-trace-hudson-2365701.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
@@ -28,7 +28,7 @@
     "id":1
   },  {
     "title":"BackGround3",
-    "price":30,
+    "price":130,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-yura-forrat-11866539%20(1).jpg?raw=true",
     "isTaken":false,
     "isUse":false,
@@ -38,7 +38,7 @@
   }
   ,  {
     "title":"BackGround4",
-    "price":30,
+    "price":40,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-nur-andi-ravsanjani-gusma-1915182.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
@@ -47,7 +47,7 @@
     "id":3
   },  {
     "title":"BackGroundMusic",
-    "price":30,
+    "price":40,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-nur-andi-ravsanjani-gusma-1915182.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
@@ -57,7 +57,7 @@
   }
   ,  {
     "title":"BackGroundMusic",
-    "price":40,
+    "price":50,
     "image":"https://github.com/halil1260/PianoGameDataRepository/blob/main/pexels-nur-andi-ravsanjani-gusma-1915182.jpg?raw=true",
     "isTaken":false,
     "isUse":false,
